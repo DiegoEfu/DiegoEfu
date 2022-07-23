@@ -5,7 +5,7 @@
 ## About me
 
 Hi there! I am Diego Faria, a student of Computer Science Engineering who is acquiring knowledge of topics such as web development, game development and programming in general.
-Why? Well, because technology and learning and two of my greatest passions!
+Why? Well, because technology and learning are two of my greatest passions!
 
 You are welcome to see my repositories and ask me whatever you want!
 
