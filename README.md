@@ -9,14 +9,18 @@ Why? Well, because technology and learning are two of my greatest passions!
 
 You are welcome to see my repositories and ask me whatever you want!
 
-## Abilities
+## Skills
 
 My projects are written mainly in the technologies you can see here:
 
 ![Diego Faria: Web & Game Developer, Computer Science Engineer](./assets/abilities.jpg)
 
-Anyway, I am so curious that I know a little bit of a lot of things! 
+However, I am so curious that I know a little bit of a lot of things! 
 
 ## Languages
 
 I am proficient in Spanish and English. However, I also know a bit of French and Japanese.
+
+## Contact
+
+If you are interested to contact me, you can send me an e-mail: diegoafbrito12@gmail.com
