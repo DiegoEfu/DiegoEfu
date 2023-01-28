@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi there! I am Diego Faria, a student of Computer Science Engineering who is acquiring knowledge of topics such as general systems development, game development and scientific computing!
+Hi there! I am Diego Faria, a student of Computer Science Engineering who is acquiring knowledge of topics such as general systems development, DB administration and scientific computing!
 
 ## Languages
 
