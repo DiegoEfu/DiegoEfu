@@ -2,7 +2,29 @@
 
 ## About me
 
-Hi there! I am Diego Faria, a student of Computer Science Engineering who is acquiring knowledge of topics such as general systems development, DB administration and scientific computing!
+Hi there! I am Diego Faria, a Software Engineer currently developing amazing software solutions for scientific and administrative applications!
+
+## Tech Skills
+
+- Relational DBs
+- Python
+- Django
+- HTML / CSS
+- JavaScript
+- React
+- Node
+- PHP
+- Laravel
+- C#
+- Data Analysis and Visualization
+
+## Other Skills
+
+- High-Level Design (UML)
+- Mathematics
+- Statistics
+- Writing
+- Fast Learning
 
 ## Languages
 
