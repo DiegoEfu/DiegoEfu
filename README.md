@@ -32,4 +32,4 @@ I am proficient in Spanish and English.
 
 ## Contact
 
-If you are interested to contact me, you can send me an e-mail: diegoafbrito12@gmail.com
+If you are interested to contact me, you can send me an e-mail: hola@diego-faria.com
